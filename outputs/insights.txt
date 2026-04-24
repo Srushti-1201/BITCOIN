@@ -1,0 +1,8 @@
+**Quantified Insights from Data**
+NOTE: These insights are derived from the provided data.
+
+- **Aggressive Leverage in Upbeat Markets:** Data-driven analysis reveals that traders significantly increase their risk-taking in optimistic markets. The average leverage used during 'greed' phases was 35.0, a 250% increase compared to the average leverage of 10.0 during 'neutral' periods.
+
+- **Volatility During Fearful Periods:** Counter-intuitively, the highest profit and loss volatility was observed during 'fear' phases, which registered a profit variance of ~115,875. This suggests that while overall trading may be suppressed, the outcomes of trades made during these times are highly unpredictable, presenting high-risk, high-reward scenarios.
+
+- **Negative Correlation Between Profit and Sentiment:** The correlation matrix uncovers a moderately negative relationship (-0.53) between trader profit and market sentiment. This key finding suggests that, in this dataset, as the market moved from fear towards greed, overall profitability tended to decrease.
