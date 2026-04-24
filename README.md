@@ -16,3 +16,7 @@ Analyze how market sentiment impacts trading performance.
 ## How to Run
 1. Install requirements
 2. Run analysis notebook
+
+## Author
+SRUSHTI
+
